@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on XiaoMi as a Java Developer
-- 💬 Ask me about ...
-- 📫 How to reach me:  wechat is  happyday_2214
-- ⚡ Fun fact: I am good at gaming
+- 畏惧死亡，实则是从未体会过活着的痛苦。
+- 死亡是众生的归宿，但并非人人都曾触碰过生命存在的意义。
 
